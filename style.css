@@ -1,0 +1,44 @@
+nav a {
+  color: crimson;
+}
+
+blockquote {
+  background-color: #eaeaea;
+}
+
+span {
+  font-weight: bold;
+}
+
+.second {
+  color: crimson;
+}
+
+.link {
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+}
+
+.font {
+  font-family: "PT Serif", sans-serif;
+  font-weight: bold;
+}
+
+.cta h2 {
+  color: crimson;
+  font-family: "Lato", sans-serif;
+}
+
+li:nth-child(odd) {
+  text-decoration: underline;
+}
+
+nav a:hover {
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav a:after {
+  width: 100%;
+  position: absolute;
+}
